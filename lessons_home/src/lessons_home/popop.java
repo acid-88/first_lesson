@@ -13,5 +13,6 @@ public class popop {
 		x = x + 1;
 	}
 		System.out.println("Конец игры!");
+		System.out.println("Hey babes");
 	}		
 }
